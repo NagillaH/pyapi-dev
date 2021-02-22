@@ -1,2 +1,4 @@
 # pyapi-dev
-track my code for python development
+Python and Restful Api Design
+- basics on how to build API with python
+- Do's and don'ts
